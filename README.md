@@ -3,13 +3,12 @@
 - 🌱 Currenly i'm learning a little bit of everything
 - 📫 To talk to me send an e-mail: 
 
-
-
 <div align="center">
-  <a href="https://github.com/GabrielBatista0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?    username=GabrielBatista0&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBatista0&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBatista0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBatista0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
