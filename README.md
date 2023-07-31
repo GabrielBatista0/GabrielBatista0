@@ -1,5 +1,5 @@
 ## Hey, i'm Biel 👋
-- 👀 I'm interested in programming languages, web development and frameworks (HTML, CSS, JavaScript, Python, Java, React, Angular, Vue).
+- 👀 I'm interested in programming languages, web development and frameworks (HTML, CSS, JavaScript, Python, Java, React, Angular, Django).
 - 🌱 Currenly i'm learning a little bit of everything
 
 <div align="center">
