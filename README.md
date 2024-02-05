@@ -1,5 +1,5 @@
-## Hey, i'm Biel 👋
-- 👀 I'm interested in programming languages, web development and frameworks (HTML, CSS, JavaScript, Python, Java, React, Angular, Django).
+## Hey, i'm Gabriel Batista 👋
+- 👀 I'm interested in programming languages, web development and frameworks (HTML, CSS, JavaScript, Python, Java, React, Vue, Django).
 - 🌱 Currenly i'm learning a little bit of everything
 
 <div align="center">
